@@ -48,7 +48,25 @@ http://localhost:3000
 
 ---
 
-🖥️ Frontend Usage
+## 📸 Screenshots
+Below are some screenshots of the project:
+
+### All Books
+![Get Books](screenshots/getBooks.png)
+
+### Add Book and Update Book Page
+![Add Book and Update Book Page](screenshots/addBook-updateBook.png)
+
+### Get Book By Id
+![Search book by id Page](screenshots/getBookById.png)
+
+### Dlete Book Page
+![Delete Page](screenshots/DeleteBook.png)
+
+
+---
+
+## 🖥️ Frontend Usage
 
 Open index.html in your browser
 
@@ -58,7 +76,7 @@ Books list updates dynamically from the API
 
 ---
  
-⚠️ Notes
+## ⚠️ Notes
 
 Data is stored in memory and will reset when the server restarts.
 
